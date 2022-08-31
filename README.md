@@ -35,5 +35,12 @@ Node is a platform that allows JavaScript to be run on a server.
 
 3. Write more code in myModule.js, just make sure to add ``` module.exports. ``` and then import it into index.js file.
 
-## [Node Packages] (https://gasei.gitbook.io/sei/05-node-express/00readme/03packages)
-1. 
+## [Node Packages Modules] (https://gasei.gitbook.io/sei/05-node-express/00readme/03packages)
+1. Visit (https://www.npmjs.com/) and search for NPM's you'd like to use.
+    EX: (https://www.npmjs.com/package/meow)
+
+2. a) To install an NPM local to a repo type ``` npm install meow or (NPM name) ``` into the terminal associated to the repo.
+
+2. b) To install an NPM globally type ``` npm install -g meow or (NPM name) ```
+
+3. Read through the selected NPM's Features and Usage.
