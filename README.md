@@ -20,7 +20,7 @@ Node is a platform that allows JavaScript to be run on a server.
 
 4. Run the program in terminal!
 
-``` node index.js or [file name] ```
+``` node index.js or [js file name] ```
 
 ## [Node Modules] (https://gasei.gitbook.io/sei/05-node-express/00readme/02modules)
 1. Create a Module and add the following code:
@@ -28,4 +28,9 @@ Node is a platform that allows JavaScript to be run on a server.
 ``` touch myModule.js ```
 ``` module.exports.beBasic = () => console.log("That's so fetch!") ```
 
+2. Import the Module. Add the following code to index.js:
 
+``` const myModule = require('./myModule.js'); ``` 
+``` myModule.beBasic(); ```
+
+3. Write more code in myModule.js, just make sure to add ``` module.exports. ``` and then import it into index.js file.
