@@ -37,7 +37,8 @@ Node is a platform that allows JavaScript to be run on a server.
 
 ## [Node Packages Modules] (https://gasei.gitbook.io/sei/05-node-express/00readme/03packages)
 1. Visit (https://www.npmjs.com/) and search for NPM's you'd like to use.
-    EX: (https://www.npmjs.com/package/meow)
+
+EX: (https://www.npmjs.com/package/meow)
 
 2. a) To install an NPM local to a repo type ``` npm install meow or (NPM name) ``` into the terminal associated to the repo.
 
