@@ -34,3 +34,6 @@ Node is a platform that allows JavaScript to be run on a server.
 ``` myModule.beBasic(); ```
 
 3. Write more code in myModule.js, just make sure to add ``` module.exports. ``` and then import it into index.js file.
+
+## [Node Packages] (https://gasei.gitbook.io/sei/05-node-express/00readme/03packages)
+1. 
